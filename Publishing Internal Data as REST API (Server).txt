@@ -1,4 +1,4 @@
-GET https://apex.oracle.com/pls/apex/maxwell_project/student/students– List all students
+GET https://apex.oracle.com/pls/apex/maxwell_project/student/students – List all students
 GET https://apex.oracle.com/pls/apex/maxwell_project/student/:student_id – Get student by ID
 POST https://apex.oracle.com/pls/apex/maxwell_project/student/students– Add a new student
 PUT https://apex.oracle.com/pls/apex/maxwell_project/student/:student_id – Update student
